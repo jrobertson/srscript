@@ -353,4 +353,3 @@ class SRScript < Sinatra::Base
     out
   end
 
-end
