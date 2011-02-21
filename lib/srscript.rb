@@ -2,7 +2,6 @@
 
 # file: srscript.rb
 
-#!/usr/bin/ruby
 
 require 'sinatra/base'
 require 'rscript'
